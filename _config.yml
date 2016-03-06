@@ -1,0 +1,14 @@
+layout_spectrum: 0.4473684
+typography_spectrum: 0.7459721
+color:
+  saturation: 0.3904404
+  lightness: 0.3345864
+  brandStrength: 0.1364349
+  rhythmicContrast: 0.4946294
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'Manalco Contracting Ltd. '
